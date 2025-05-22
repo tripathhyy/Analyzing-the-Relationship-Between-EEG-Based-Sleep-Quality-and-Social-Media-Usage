@@ -1,0 +1,301 @@
+Consumer ID,Customer Name,Age,Gender,Income (USD),Education Level,Social Media Usage (Hours/Day),Social Media Platforms,Influence Level,Purchase Decision,Product Category,Specific Product,Amount Spent (USD),Brand Name,City
+1,Alice Johnson,28,Female,45000,Bachelor's,2.5,"Instagram, Twitter",Very Influential,Yes,Fashion,Dress,200,"Nike, Zara",New York
+2,Bob Smith,35,Male,60000,Master's,1.8,"Facebook, Instagram",Somewhat Influential,Yes,Electronics,Smartphone,800,"Apple, Samsung",Los Angeles
+3,Chris Taylor,22,Non-binary,32000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Chicago
+4,David Brown,40,Male,75000,PhD,3.2,"Facebook, LinkedIn",Very Influential,Yes,Food,Burger,50,McDonald's,Houston
+5,Emily White,29,Female,55000,Bachelor's,2,"Instagram, TikTok",Somewhat Influential,Yes,Beauty,Makeup,100,Sephora,Miami
+6,Frank Davis,45,Male,80000,Bachelor's,3.5,"Twitter, LinkedIn",Very Influential,Yes,Electronics,TV,600,Samsung,San Francisco
+7,Grace Smith,32,Female,58000,Master's,2.2,"Instagram, Facebook",Somewhat Influential,Yes,Home Decor,Sofa,300,IKEA,Seattle
+8,Hannah Johnson,25,Female,40000,Bachelor's,3,"TikTok, Instagram",Somewhat Influential,Yes,Fashion,Shoes,150,H&M,Atlanta
+9,Ivan Hernandez,30,Male,62000,Bachelor's,2.8,"Facebook, Twitter",Very Influential,Yes,Electronics,Laptop,750,Sony,Miami
+10,Jane Adams,27,Female,48000,Master's,2.7,"Instagram, TikTok",Very Influential,Yes,Beauty,Skincare,120,MAC Cosmetics,Los Angeles
+11,Karen White,38,Female,70000,PhD,2,"LinkedIn, Twitter",Somewhat Influential,Yes,Fitness,Running Shoes,250,"Nike, Adidas",San Diego
+12,Liam Martin,24,Male,36000,High School,5,"Snapchat, Instagram",Not Influential,No,N/A,N/A,0,N/A,Boston
+13,Mia Garcia,31,Female,56000,Bachelor's,2.3,"Facebook, TikTok",Somewhat Influential,Yes,Home Decor,Bedding,180,"IKEA, Target",Phoenix
+14,Noah Anderson,26,Male,48000,Master's,2.2,"Instagram, Twitter",Very Influential,Yes,Fashion,T-shirt,130,"Zara, H&M",Denver
+15,Olivia Lewis,29,Female,51000,Bachelor's,3.8,"TikTok, Snapchat",Very Influential,Yes,Beauty,Lipstick,90,"Sephora, L'Oréal",Chicago
+16,Peter Wilson,34,Male,70000,Bachelor's,2.5,"Facebook, Instagram",Somewhat Influential,Yes,Electronics,Tablet,700,"Apple, Microsoft",New York
+17,Quinn Adams,28,Female,55000,Master's,2,"Instagram, Pinterest",Somewhat Influential,Yes,Home Decor,Wall Art,220,"IKEA, Wayfair",Austin
+18,Ryan Martinez,36,Male,68000,Bachelor's,2.9,"Twitter, LinkedIn",Very Influential,Yes,Fitness,Gym Equipment,180,"Nike, Under Armour",San Francisco
+19,Sarah Brown,33,Female,62000,Bachelor's,3.1,"Instagram, TikTok",Very Influential,Yes,Beauty,Perfume,110,"Sephora, Clinique",Miami
+20,Taylor Davis,23,Male,42000,High School,4.2,"Snapchat, Facebook",Somewhat Influential,Yes,Electronics,Headphones,400,"Sony, LG",Chicago
+21,Vanessa Kim,29,Female,58000,Bachelor's,2.3,"Instagram, Twitter",Somewhat Influential,Yes,Fashion,Jeans,140,"Levi's, H&M",Los Angeles
+22,William Lee,31,Male,62000,Bachelor's,2.7,"Facebook, Instagram",Very Influential,Yes,Electronics,Camera,900,"Canon, Nikon",San Francisco
+23,Xavier Miller,26,Male,48000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Beauty,Haircare,70,"Pantene, L'Oréal",Chicago
+24,Yara Martinez,27,Female,52000,Master's,3.5,"Instagram, Pinterest",Very Influential,Yes,Home Decor,Lighting,250,"IKEA, Philips",Miami
+25,Zane Patel,34,Male,72000,PhD,2.8,"LinkedIn, Twitter",Somewhat Influential,Yes,Fitness,Dumbbells,120,"Bowflex, NordicTrack",Seattle
+26,Ava Wilson,30,Female,55000,Master's,2.8,"Instagram, TikTok",Somewhat Influential,Yes,Fashion,Handbag,250,"Coach, Michael Kors",New York
+27,Benjamin Davis,28,Male,48000,Bachelor's,3,"Facebook, Instagram",Very Influential,Yes,Electronics,Gaming Console,400,"Sony, Microsoft",Los Angeles
+28,Chloe Adams,25,Female,46000,Bachelor's,2.7,"TikTok, Snapchat",Somewhat Influential,Yes,Beauty,Skincare,90,"Neutrogena, CeraVe",Austin
+29,Daniel Kim,27,Male,52000,Bachelor's,2.2,"Instagram, Twitter",Somewhat Influential,Yes,Home Decor,Furniture,400,"IKEA, Ashley Furniture",Boston
+30,Elena Garcia,29,Female,54000,Master's,2.9,"Facebook, TikTok",Very Influential,Yes,Fashion,Sneakers,180,"Nike, Puma",Miami
+31,Felix Rodriguez,33,Male,62000,PhD,3.1,"LinkedIn, Twitter",Very Influential,Yes,Electronics,Smartwatch,300,"Apple, Garmin",San Francisco
+32,Gabriella Perez,26,Female,46000,Bachelor's,2.6,"Instagram, TikTok",Very Influential,Yes,Beauty,Perfume,70,"Chanel, Dior",Los Angeles
+33,Henry Evans,40,Male,78000,Master's,2.2,"Twitter, LinkedIn",Somewhat Influential,Yes,Fitness,Treadmill,1200,"NordicTrack, Peloton",Houston
+34,Isabella Sanchez,24,Female,43000,High School,3.3,"Facebook, Snapchat",Not Influential,Yes,N/A,N/A,0,N/A,Chicago
+35,Jack Taylor,29,Male,58000,Bachelor's,2.9,"Instagram, Twitter",Somewhat Influential,Yes,Fashion,Watch,350,"Rolex, Casio",New York
+36,Katherine Brown,35,Female,68000,Master's,3.2,"Facebook, Pinterest",Very Influential,Yes,Home Decor,Curtains,80,"IKEA, Target",Austin
+37,Leo Martinez,33,Male,70000,Bachelor's,2.7,"Instagram, TikTok",Very Influential,Yes,Electronics,Headset,150,"Sony, Bose",San Diego
+38,Maria Lopez,27,Female,48000,Bachelor's,2.5,"TikTok, Instagram",Somewhat Influential,Yes,Beauty,Nail Polish,40,"OPI, Essie",Chicago
+39,Nathan Adams,28,Male,52000,Master's,2.9,"Facebook, Twitter",Somewhat Influential,Yes,Fitness,Yoga Mat,20,"Gaiam, Manduka",Boston
+40,Olivia Garcia,29,Female,54000,Master's,3,"Instagram, Pinterest",Very Influential,Yes,Fashion,Sunglasses,100,"Ray-Ban, Oakley",Miami
+41,Liam Wilson,32,Male,66000,PhD,2.8,"LinkedIn, Twitter",Very Influential,Yes,Electronics,Soundbar,300,"Bose, Sonos",San Francisco
+42,Mia Johnson,26,Female,48000,Bachelor's,2.4,"Facebook, TikTok",Somewhat Influential,Yes,Home Decor,Kitchen Appliances,350,"KitchenAid, Cuisinart",Phoenix
+43,Noah Davis,30,Male,58000,Bachelor's,2.5,"Snapchat, Instagram",Somewhat Influential,Yes,Fashion,Suit,450,"Brooks Brothers, Zara",Austin
+44,Olivia Smith,27,Female,52000,Master's,2.3,"Instagram, Pinterest",Very Influential,Yes,Beauty,Mascara,40,"Maybelline, L'Oréal",Los Angeles
+45,Peter Johnson,38,Male,72000,PhD,2.9,"Facebook, LinkedIn",Somewhat Influential,Yes,Fitness,Home Gym Equipment,800,"Bowflex, NordicTrack",Seattle
+46,Quinn Adams,28,Female,55000,Master's,2.2,"Instagram, Twitter",Very Influential,Yes,Home Decor,Rugs,120,"IKEA, Wayfair",Atlanta
+47,Ryan Wilson,36,Male,70000,Bachelor's,3.1,"Twitter, Instagram",Very Influential,Yes,Electronics,Smart Speaker,100,"Amazon Echo, Google Home",New York
+48,Sofia Martinez,29,Female,54000,Master's,2.7,"TikTok, Instagram",Somewhat Influential,Yes,Beauty,Foundation,30,"Maybelline, CoverGirl",Miami
+49,Thomas Smith,32,Male,62000,Bachelor's,2.6,"Facebook, Twitter",Somewhat Influential,Yes,Fashion,Sunglasses,200,"Ray-Ban, Oakley",Boston
+50,Victoria Kim,28,Female,48000,Bachelor's,2.1,"Instagram, TikTok",Very Influential,Yes,Home Decor,Curtains,60,"IKEA, Target",Los Angeles
+51,Xavier Rodriguez,31,Male,60000,Bachelor's,2.9,"Twitter, Facebook",Somewhat Influential,Yes,Electronics,Gaming Console,450,"Sony, Microsoft",Houston
+52,Zoe Martinez,29,Female,58000,Master's,2.7,"Instagram, Pinterest",Very Influential,Yes,Beauty,Lipstick,40,"MAC Cosmetics, Revlon",Seattle
+53,Andrew Brown,33,Male,68000,PhD,2.8,"LinkedIn, TikTok",Very Influential,Yes,Fitness,Treadmill,1100,"NordicTrack, Peloton",San Francisco
+54,Bella Davis,28,Female,50000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Fashion,Handbag,200,"Coach, Michael Kors",Los Angeles
+55,Charles Kim,29,Male,52000,Bachelor's,2.2,"Instagram, Twitter",Somewhat Influential,Yes,Home Decor,Furniture,420,"IKEA, West Elm",Boston
+56,Diana Johnson,26,Female,47000,Bachelor's,2.3,"Facebook, TikTok",Somewhat Influential,Yes,Electronics,Bluetooth Speaker,70,"JBL, Bose",Phoenix
+57,Ethan Smith,28,Male,52000,Bachelor's,2,"Instagram, Twitter",Somewhat Influential,Yes,Fashion,Watch,300,"Rolex, Seiko",Los Angeles
+58,Fiona Brown,32,Female,59000,Master's,2.5,"Pinterest, Instagram",Somewhat Influential,Yes,Home Decor,Wall Clock,50,"IKEA, Howard Miller",Seattle
+59,George Martin,34,Male,65000,PhD,2.8,"Twitter, LinkedIn",Very Influential,Yes,Fitness,Elliptical Machine,900,"NordicTrack, Sole Fitness",Houston
+60,Hannah Davis,28,Female,48000,Bachelor's,2.2,"Snapchat, Instagram",Somewhat Influential,Yes,Beauty,Skincare,80,"Neutrogena, CeraVe",Chicago
+61,Isaac Johnson,27,Male,51000,Bachelor's,2.6,"Instagram, Twitter",Somewhat Influential,Yes,Fashion,Hoodie,70,"Nike, Adidas",New York
+62,Jennifer Smith,33,Female,62000,Master's,2.9,"Facebook, TikTok",Very Influential,Yes,Home Decor,Wall Art,150,"IKEA, Wayfair",Los Angeles
+63,Kevin Wilson,29,Male,55000,Bachelor's,2.2,"TikTok, Instagram",Very Influential,Yes,Electronics,Wireless Earbuds,100,"Apple, Sony",Miami
+64,Laura Martinez,30,Female,57000,Master's,3.2,"Instagram, Pinterest",Very Influential,Yes,Beauty,Lip Gloss,40,"Fenty Beauty, NYX",Austin
+65,Michael Davis,36,Male,70000,Bachelor's,2.7,"Facebook, Twitter",Somewhat Influential,Yes,Fitness,Weight Bench,180,"Bowflex, Weider",San Diego
+66,Natalie Brown,28,Female,48000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Fashion,Dress,120,"Zara, Forever 21",Chicago
+67,Oliver Lee,31,Male,63000,Bachelor's,2.8,"Instagram, Facebook",Very Influential,Yes,Electronics,Drone,350,"DJI, GoPro",New York
+68,Patricia Smith,29,Female,54000,Master's,2.7,"Pinterest, Instagram",Somewhat Influential,Yes,Home Decor,Throw Pillows,60,"IKEA, Target",Los Angeles
+69,Quentin Adams,27,Male,52000,Bachelor's,2.3,"Twitter, TikTok",Somewhat Influential,Yes,Fitness,Resistance Bands,30,"Bodylastics, Fit Simplify",Seattle
+70,Rachel Kim,29,Female,55000,Bachelor's,2.4,"Instagram, Twitter",Somewhat Influential,Yes,Beauty,Hair Dryer,50,"Dyson, Conair",Miami
+71,Alexander Rodriguez,32,Male,63000,Bachelor's,2.5,"Instagram, Facebook",Somewhat Influential,Yes,Electronics,Laptop,900,"Dell, HP",San Francisco
+72,Bella Smith,28,Female,48000,Bachelor's,2,"TikTok, Snapchat",Somewhat Influential,Yes,Beauty,Nail Polish,20,"Essie, OPI",Chicago
+73,Caleb Wilson,30,Male,56000,Bachelor's,2.7,"Facebook, Twitter",Somewhat Influential,Yes,Home Decor,Bedding,150,"IKEA, Target",Phoenix
+74,Daisy Brown,33,Female,62000,Master's,2.8,"Instagram, TikTok",Very Influential,Yes,Fashion,T-shirt,30,"Uniqlo, Gap",Austin
+75,Ethan Johnson,27,Male,51000,Bachelor's,2.2,"Twitter, Snapchat",Somewhat Influential,Yes,Electronics,Smartphone,750,"Samsung, Google",New York
+76,Fiona Kim,28,Female,50000,Bachelor's,2.3,"Instagram, TikTok",Somewhat Influential,Yes,Beauty,Mascara,25,"Maybelline, L'Oréal",Los Angeles
+77,George Davis,35,Male,68000,Bachelor's,3,"LinkedIn, Twitter",Very Influential,Yes,Fitness,Home Gym Equipment,1000,"Bowflex, NordicTrack",Seattle
+78,Hannah Smith,29,Female,54000,Master's,2.5,"Facebook, Instagram",Very Influential,Yes,Home Decor,Lighting,200,"Philips, IKEA",Miami
+79,Isaac Lee,31,Male,60000,Bachelor's,2.9,"Instagram, Twitter",Very Influential,Yes,Electronics,Smartwatch,400,"Apple, Garmin",San Francisco
+80,Jasmine Patel,26,Female,46000,Bachelor's,2.2,"TikTok, Snapchat",Somewhat Influential,Yes,Fashion,Jeans,60,"Levi's, H&M",Chicago
+81,Kevin Adams,28,Male,52000,Master's,2.8,"Instagram, Pinterest",Somewhat Influential,Yes,Beauty,Skincare,70,"Neutrogena, CeraVe",New York
+82,Lily Hernandez,29,Female,54000,Master's,2.9,"Facebook, TikTok",Very Influential,Yes,Fitness,Yoga Mat,25,"Gaiam, Manduka",Austin
+83,Mason Brown,33,Male,62000,Bachelor's,2.7,"Twitter, LinkedIn",Somewhat Influential,Yes,Electronics,Soundbar,250,"Bose, Sonos",Houston
+84,Natalie Smith,27,Female,52000,Master's,2.6,"Instagram, Pinterest",Very Influential,Yes,Home Decor,Wall Art,120,"IKEA, Wayfair",Los Angeles
+85,Oliver Davis,32,Male,66000,PhD,3.2,"LinkedIn, Twitter",Very Influential,Yes,Beauty,Lip Gloss,35,"Fenty Beauty, NYX",San Diego
+86,Paige Adams,25,Female,42000,High School,4,"Snapchat, Instagram",Not Influential,No,N/A,N/A,0,N/A,Boston
+87,Quinn Taylor,29,Male,58000,Bachelor's,2.4,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Bluetooth Speaker,50,"JBL, Sony",Seattle
+88,Rachel Wilson,30,Female,57000,Master's,3,"Facebook, Instagram",Very Influential,Yes,Fashion,Dress,80,"Zara, H&M",Chicago
+89,Samuel Kim,34,Male,70000,Bachelor's,2.8,"Instagram, Twitter",Somewhat Influential,Yes,Home Decor,Throw Pillows,40,"IKEA, Target",New York
+90,Taylor Hernandez,23,Female,36000,High School,4.5,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Los Angeles
+91,Ulysses Martinez,27,Male,52000,Bachelor's,2.1,"Facebook, Twitter",Somewhat Influential,Yes,Electronics,Gaming Console,350,"Sony, Microsoft",Seattle
+92,Victoria Davis,28,Female,48000,Bachelor's,2.2,"Instagram, Pinterest",Somewhat Influential,Yes,Fitness,Resistance Bands,20,"Bodylastics, Fit Simplify",Boston
+93,William Smith,32,Male,64000,Bachelor's,2.9,"Twitter, Instagram",Very Influential,Yes,Beauty,Foundation,25,"Maybelline, CoverGirl",Miami
+94,Xander Johnson,27,Male,53000,Bachelor's,2.4,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Kitchen Appliances,400,"KitchenAid, Cuisinart",Phoenix
+95,Yara Taylor,29,Female,55000,Master's,2.6,"Instagram, Facebook",Somewhat Influential,Yes,Fashion,Sunglasses,50,"Ray-Ban, Oakley",San Francisco
+96,Zane Davis,33,Male,67000,PhD,3.1,"LinkedIn, Twitter",Very Influential,Yes,Electronics,Camera,800,"Canon, Nikon",Los Angeles
+97,Ava Smith,28,Female,49000,Bachelor's,2.7,"Facebook, TikTok",Somewhat Influential,Yes,Home Decor,Rugs,90,"IKEA, Wayfair",Seattle
+98,Benjamin Kim,25,Male,44000,Bachelor's,2.3,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Smart Speaker,60,"Amazon Echo, Google Home",Chicago
+99,Chloe Davis,27,Female,51000,Master's,2.8,"Pinterest, Instagram",Very Influential,Yes,Beauty,Lipstick,30,"MAC Cosmetics, Revlon",Boston
+100,Daniel Smith,30,Male,58000,Bachelor's,2.5,"Twitter, Snapchat",Somewhat Influential,Yes,Fitness,Dumbbells,40,"Bowflex, NordicTrack",Miami
+101,Addison Martinez,32,Male,63000,Bachelor's,2.4,"Instagram, Facebook",Somewhat Influential,Yes,Fashion,Sneakers,90,"Nike, Adidas",Austin
+102,Bella Hernandez,29,Female,54000,Master's,2.7,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Curtains,40,"IKEA, Target",Miami
+103,Caleb Davis,35,Male,68000,Bachelor's,2.9,"Facebook, Twitter",Very Influential,Yes,Electronics,Laptop,800,"Apple, Dell",Los Angeles
+104,Daisy Kim,28,Female,48000,Bachelor's,2.2,"Instagram, Pinterest",Somewhat Influential,Yes,Beauty,Mascara,15,"Maybelline, L'Oréal",New York
+105,Ethan Smithson,31,Male,60000,Bachelor's,2.6,"Twitter, Snapchat",Somewhat Influential,Yes,Fitness,Treadmill,850,"NordicTrack, Peloton",Chicago
+106,Fiona Johnson,27,Female,52000,Bachelor's,2.8,"Instagram, TikTok",Somewhat Influential,Yes,Home Decor,Wall Art,60,"IKEA, Wayfair",Boston
+107,George Kim,32,Male,62000,Bachelor's,2.5,"Facebook, LinkedIn",Very Influential,Yes,Fashion,Jeans,70,"Levi's, H&M",Seattle
+108,Hannah Rodriguez,29,Female,55000,Master's,3,"Pinterest, Instagram",Very Influential,Yes,Beauty,Lipstick,25,"MAC Cosmetics, Revlon",San Francisco
+109,Isaac Davis,33,Male,64000,PhD,3.1,"Twitter, LinkedIn",Very Influential,Yes,Home Decor,Throw Pillows,45,"IKEA, Target",Houston
+110,Jasmine Patel,26,Female,46000,Bachelor's,2.3,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Smartphone,750,"Samsung, iPhone",Phoenix
+111,Kevin Adams,28,Male,52000,Master's,2.7,"Instagram, Pinterest",Somewhat Influential,Yes,Fitness,Yoga Mat,25,"Gaiam, Manduka",Miami
+112,Lily Hernandez,29,Female,54000,Master's,2.8,"Facebook, TikTok",Very Influential,Yes,Fashion,Dress,50,"Zara, H&M",Los Angeles
+113,Mason Smith,33,Male,62000,Bachelor's,2.5,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Smart Speaker,70,"Amazon Echo, Google Home",Seattle
+114,Natalie Davis,27,Female,52000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Bedding,110,"IKEA, Target",Chicago
+115,Oliver Johnson,32,Male,63000,PhD,3.2,"LinkedIn, Twitter",Very Influential,Yes,Beauty,Foundation,35,"Fenty Beauty, Maybelline",New York
+116,Paige Adams,25,Female,44000,Bachelor's,2.1,"Snapchat, Instagram",Somewhat Influential,Yes,Fitness,Dumbbells,30,"Bowflex, NordicTrack",Austin
+117,Quinn Taylor,29,Male,58000,Bachelor's,2.4,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Lighting,80,"Philips, IKEA",San Diego
+118,Rachel Wilson,30,Female,57000,Master's,2.9,"Facebook, Instagram",Very Influential,Yes,Fashion,T-shirt,20,"Uniqlo, Gap",Boston
+119,Samuel Kim,34,Male,70000,Bachelor's,3.1,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Camera,600,"Canon, Sony",Miami
+120,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Los Angeles
+121,Addison Johnson,27,Male,52000,Bachelor's,2.2,"Instagram, Facebook",Somewhat Influential,Yes,Fashion,Sunglasses,60,"Ray-Ban, Oakley",Seattle
+122,Bella Taylor,30,Female,58000,Master's,2.6,"Pinterest, Instagram",Somewhat Influential,Yes,Home Decor,Rugs,70,"IKEA, Wayfair",Austin
+123,Caleb Kim,29,Male,55000,Bachelor's,2.4,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Wireless Earbuds,50,"Apple, Sony",New York
+124,Daisy Davis,33,Female,63000,PhD,2.9,"Facebook, Twitter",Very Influential,Yes,Beauty,Lip Gloss,25,"Fenty Beauty, NYX",San Francisco
+125,Ethan Smithers,28,Male,45000,Bachelor's,2.2,"Instagram, Pinterest",Somewhat Influential,Yes,Fitness,Home Gym Equipment,900,"Bowflex, NordicTrack",Chicago
+126,Fiona Kimson,27,Female,49000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Throw Pillows,35,"IKEA, Target",Los Angeles
+127,George Martinez,32,Male,62000,Bachelor's,2.8,"Instagram, TikTok",Very Influential,Yes,Fashion,Hoodie,40,"Nike, Adidas",Seattle
+128,Hannah Rodriguez,29,Female,54000,Master's,3,"Facebook, Instagram",Very Influential,Yes,Electronics,Smart Speaker,70,"Amazon Echo, Google Home",Miami
+129,Isaac Davis,33,Male,64000,PhD,3.1,"Twitter, LinkedIn",Very Influential,Yes,Home Decor,Wall Clock,40,"IKEA, Howard Miller",Houston
+130,Jasmine Patel,26,Female,46000,Bachelor's,2.3,"Instagram, TikTok",Somewhat Influential,Yes,Electronics,Gaming Console,400,"Sony, Microsoft",Phoenix
+131,Kevin Adams,28,Male,52000,Master's,2.7,"Instagram, Pinterest",Somewhat Influential,Yes,Fitness,Resistance Bands,15,"Bodylastics, Fit Simplify",Miami
+132,Lily Hernandez,29,Female,54000,Master's,2.8,"Facebook, TikTok",Very Influential,Yes,Fashion,Dress,25,"Zara, H&M",Los Angeles
+133,Mason Smith,33,Male,62000,Bachelor's,2.5,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Smartwatch,120,"Apple, Garmin",Boston
+134,Natalie Davis,27,Female,52000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Wall Art,50,"IKEA, Wayfair",Seattle
+135,Oliver Johnson,32,Male,63000,PhD,3.2,"LinkedIn, Twitter",Very Influential,Yes,Beauty,Mascara,20,"Maybelline, L'Oréal",San Diego
+136,Paige Adams,25,Female,44000,Bachelor's,2.1,"Snapchat, Instagram",Somewhat Influential,Yes,Home Decor,Bedding,70,"IKEA, Target",Chicago
+137,Quinn Taylor,29,Male,58000,Bachelor's,2.4,"TikTok, Snapchat",Somewhat Influential,Yes,Fashion,Jeans,50,"Levi's, H&M",New York
+138,Rachel Wilson,30,Female,57000,Master's,2.9,"Facebook, Instagram",Very Influential,Yes,Fitness,Yoga Mat,15,"Gaiam, Manduka",Austin
+139,Samuel Kim,34,Male,70000,Bachelor's,3.1,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Wireless Earbuds,40,"Apple, Sony",Los Angeles
+140,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,New York
+141,Addison Davis,33,Male,64000,PhD,2.8,"Twitter, Instagram",Somewhat Influential,Yes,Home Decor,Throw Pillows,40,"IKEA, Target",Phoenix
+142,Bella Kim,29,Female,54000,Master's,2.7,"Instagram, TikTok",Somewhat Influential,Yes,Electronics,Soundbar,120,"Bose, Sonos",Miami
+143,Caleb Smith,34,Male,70000,Bachelor's,3,"Facebook, Twitter",Very Influential,Yes,Beauty,Lipstick,15,"MAC Cosmetics, Revlon",Los Angeles
+144,Daisy Martinez,28,Female,48000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Fitness,Treadmill,800,"NordicTrack, Peloton",Seattle
+145,Ethan Johnson,27,Male,52000,Bachelor's,2.2,"Twitter, Snapchat",Somewhat Influential,Yes,Fashion,Dress,40,"Zara, H&M",San Francisco
+146,Fiona Rodriguez,30,Female,57000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Wall Art,25,"IKEA, Wayfair",Boston
+147,George Davis,33,Male,62000,Bachelor's,2.6,"Facebook, LinkedIn",Somewhat Influential,Yes,Electronics,Smartwatch,200,"Apple, Garmin",Houston
+148,Hannah Kim,28,Female,50000,Bachelor's,2.4,"Instagram, Pinterest",Somewhat Influential,Yes,Fitness,Dumbbells,30,"Bowflex, NordicTrack",Chicago
+149,Isaac Smith,27,Male,53000,Bachelor's,2.7,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Kitchen Appliances,450,"KitchenAid, Cuisinart",Los Angeles
+150,Jasmine Adams,30,Female,58000,Master's,2.8,"Facebook, Instagram",Very Influential,Yes,Fashion,Sneakers,70,"Nike, Adidas",Seattle
+151,Kevin Davis,34,Male,68000,PhD,2.9,"Twitter, LinkedIn",Very Influential,Yes,Electronics,Smartphone,900,"Samsung, iPhone",Miami
+152,Lily Hernandez,29,Female,54000,Master's,2.5,"Instagram, TikTok",Somewhat Influential,Yes,Beauty,Mascara,20,"Maybelline, L'Oréal",Austin
+153,Mason Smith,33,Male,62000,Bachelor's,2.7,"Instagram, Twitter",Somewhat Influential,Yes,Home Decor,Throw Pillows,50,"IKEA, Target",San Francisco
+154,Natalie Davis,27,Female,52000,Master's,2.6,"Pinterest, Instagram",Very Influential,Yes,Fashion,Jeans,60,"Levi's, H&M",Chicago
+155,Oliver Johnson,32,Male,63000,PhD,3,"LinkedIn, Twitter",Very Influential,Yes,Electronics,Bluetooth Speaker,60,"JBL, Sony",New York
+156,Paige Adams,25,Female,44000,Bachelor's,2.4,"Snapchat, Instagram",Somewhat Influential,Yes,Beauty,Skincare,35,"Neutrogena, CeraVe",Austin
+157,Quinn Taylor,29,Male,55000,Bachelor's,2.8,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Gaming Console,350,"Sony, Microsoft",Los Angeles
+158,Rachel Wilson,30,Female,57000,Master's,2.9,"Facebook, Instagram",Very Influential,Yes,Home Decor,Curtains,40,"IKEA, Target",Seattle
+159,Samuel Kim,34,Male,70000,Bachelor's,3.1,"Instagram, Twitter",Somewhat Influential,Yes,Fitness,Yoga Mat,25,"Gaiam, Manduka",Miami
+160,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Los Angeles
+161,Addison Kim,29,Male,55000,Bachelor's,2.5,"Instagram, Facebook",Somewhat Influential,Yes,Electronics,Headphones,100,"Sony, Bose",San Diego
+162,Bella Smith,28,Female,48000,Bachelor's,2.4,"TikTok, Snapchat",Somewhat Influential,Yes,Beauty,Nail Polish,10,"Essie, OPI",New York
+163,Caleb Johnson,30,Male,56000,Bachelor's,2.6,"Facebook, Twitter",Somewhat Influential,Yes,Home Decor,Bedding,120,"IKEA, Target",Austin
+164,Daisy Davis,33,Female,62000,Master's,2.8,"Instagram, TikTok",Very Influential,Yes,Fashion,T-shirt,20,"Uniqlo, Gap",Seattle
+165,Ethan Kim,27,Male,51000,Bachelor's,2.3,"Twitter, Snapchat",Somewhat Influential,Yes,Electronics,Smartphone,800,"Samsung, iPhone",Miami
+166,Fiona Rodriguez,28,Female,52000,Bachelor's,2.4,"Instagram, TikTok",Somewhat Influential,Yes,Beauty,Mascara,15,"Maybelline, L'Oréal",Chicago
+167,George Kim,32,Male,63000,Bachelor's,2.7,"Facebook, LinkedIn",Very Influential,Yes,Fitness,Home Gym Equipment,900,"Bowflex, NordicTrack",New York
+168,Hannah Smith,29,Female,54000,Master's,2.5,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Lighting,70,"Philips, IKEA",San Francisco
+169,Isaac Martinez,31,Male,60000,Bachelor's,2.9,"Instagram, Twitter",Very Influential,Yes,Electronics,Smartwatch,300,"Apple, Garmin",Chicago
+170,Jasmine Davis,26,Female,46000,Bachelor's,2.2,"TikTok, Snapchat",Somewhat Influential,Yes,Fashion,Jeans,40,"Levi's, H&M",Houston
+171,Kevin Kim,28,Male,52000,Master's,2.6,"Instagram, Pinterest",Somewhat Influential,Yes,Beauty,Skincare,45,"Neutrogena, CeraVe",Miami
+172,Lily Smith,29,Female,54000,Master's,2.7,"Facebook, TikTok",Very Influential,Yes,Fitness,Resistance Bands,20,"Bodylastics, Fit Simplify",Los Angeles
+173,Mason Davis,33,Male,62000,Bachelor's,2.5,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Soundbar,150,"Bose, Sonos",Phoenix
+174,Natalie Kim,27,Female,52000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Wall Art,90,"IKEA, Wayfair",Austin
+175,Oliver Johnson,32,Male,63000,PhD,3,"LinkedIn, Twitter",Very Influential,Yes,Beauty,Lip Gloss,10,"Fenty Beauty, NYX",Seattle
+176,Paige Adams,25,Female,44000,Bachelor's,2.3,"Snapchat, Instagram",Somewhat Influential,Yes,Electronics,Laptop,700,"Apple, Dell",Boston
+177,Quinn Martinez,29,Male,58000,Bachelor's,2.8,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Curtains,30,"IKEA, Target",Los Angeles
+178,Rachel Davis,30,Female,57000,Master's,2.7,"Facebook, Instagram",Very Influential,Yes,Fashion,Sneakers,80,"Nike, Adidas",New York
+179,Samuel Kim,34,Male,70000,Bachelor's,2.9,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Wireless Earbuds,50,"Apple, Sony",Miami
+180,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Seattle
+181,Addison Smith,28,Male,49000,Bachelor's,2.2,"Instagram, Facebook",Somewhat Influential,Yes,Home Decor,Kitchen Appliances,250,"KitchenAid, Cuisinart",Phoenix
+182,Bella Johnson,27,Female,52000,Bachelor's,2.3,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Wireless Earbuds,80,"Apple, Sony",Austin
+183,Caleb Davis,33,Male,64000,PhD,3.1,"Twitter, LinkedIn",Very Influential,Yes,Fitness,Yoga Mat,20,"Gaiam, Manduka",Chicago
+184,Daisy Kim,29,Female,55000,Master's,2.7,"Instagram, Pinterest",Very Influential,Yes,Beauty,Foundation,30,"Fenty Beauty, Maybelline",Seattle
+185,Ethan Smithers,28,Male,46000,Bachelor's,2.4,"Snapchat, Instagram",Somewhat Influential,Yes,Fashion,Sneakers,60,"Nike, Adidas",San Francisco
+186,Fiona Davis,27,Female,50000,Bachelor's,2.5,"Instagram, TikTok",Somewhat Influential,Yes,Home Decor,Wall Clock,35,"IKEA, Howard Miller",Los Angeles
+187,George Kimson,32,Male,61000,Bachelor's,2.8,"Facebook, LinkedIn",Very Influential,Yes,Electronics,Laptop,900,"Apple, Dell",Houston
+188,Hannah Rodriguez,29,Female,54000,Master's,2.6,"Pinterest, Instagram",Very Influential,Yes,Fashion,Dress,50,"Zara, H&M",Miami
+189,Isaac Davis,27,Male,53000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Gaming Console,350,"Sony, Microsoft",New York
+190,Jasmine Patel,26,Female,47000,Bachelor's,2.3,"Instagram, TikTok",Somewhat Influential,Yes,Home Decor,Curtains,40,"IKEA, Target",Austin
+191,Kevin Adams,28,Male,52000,Master's,2.7,"Instagram, Pinterest",Somewhat Influential,Yes,Electronics,Smart Speaker,60,"Amazon Echo, Google Home",San Diego
+192,Lily Hernandez,29,Female,54000,Master's,2.8,"Facebook, TikTok",Very Influential,Yes,Fitness,Resistance Bands,25,"Bodylastics, Fit Simplify",Boston
+193,Mason Smith,33,Male,62000,Bachelor's,2.6,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Bluetooth Speaker,70,"JBL, Sony",Phoenix
+194,Natalie Davis,27,Female,52000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Beauty,Lip Gloss,15,"MAC Cosmetics, Revlon",Austin
+195,Oliver Johnson,32,Male,63000,PhD,3,"LinkedIn, Twitter",Very Influential,Yes,Home Decor,Bedding,80,"IKEA, Target",Chicago
+196,Paige Adams,25,Female,44000,Bachelor's,2.2,"Snapchat, Instagram",Somewhat Influential,Yes,Electronics,Smartwatch,250,"Apple, Garmin",Los Angeles
+197,Quinn Taylor,29,Male,57000,Bachelor's,2.8,"TikTok, Snapchat",Somewhat Influential,Yes,Fashion,Jeans,50,"Levi's, H&M",Houston
+198,Rachel Wilson,30,Female,56000,Master's,2.7,"Facebook, Instagram",Very Influential,Yes,Fitness,Yoga Mat,20,"Gaiam, Manduka",New York
+199,Samuel Kim,34,Male,68000,Bachelor's,2.9,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Wireless Earbuds,40,"Apple, Sony",Miami
+200,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Seattle
+201,Addison Davis,33,Male,64000,PhD,2.8,"Twitter, Instagram",Somewhat Influential,Yes,Home Decor,Throw Pillows,40,"IKEA, Target",Phoenix
+202,Bella Kim,29,Female,54000,Master's,2.7,"Instagram, TikTok",Somewhat Influential,Yes,Electronics,Soundbar,120,"Bose, Sonos",Miami
+203,Caleb Smith,34,Male,70000,Bachelor's,3,"Facebook, Twitter",Very Influential,Yes,Beauty,Lipstick,15,"MAC Cosmetics, Revlon",Los Angeles
+204,Daisy Martinez,28,Female,48000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Fitness,Treadmill,800,"NordicTrack, Peloton",Seattle
+205,Ethan Johnson,27,Male,52000,Bachelor's,2.2,"Twitter, Snapchat",Somewhat Influential,Yes,Fashion,Dress,40,"Zara, H&M",San Francisco
+206,Fiona Rodriguez,30,Female,57000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Wall Art,25,"IKEA, Wayfair",Boston
+207,George Davis,33,Male,62000,Bachelor's,2.6,"Facebook, LinkedIn",Somewhat Influential,Yes,Electronics,Smartwatch,200,"Apple, Garmin",Houston
+208,Hannah Kim,28,Female,50000,Bachelor's,2.4,"Instagram, Pinterest",Somewhat Influential,Yes,Fitness,Dumbbells,30,"Bowflex, NordicTrack",Chicago
+209,Isaac Smith,27,Male,53000,Bachelor's,2.7,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Kitchen Appliances,450,"KitchenAid, Cuisinart",Los Angeles
+210,Jasmine Adams,30,Female,58000,Master's,2.8,"Facebook, Instagram",Very Influential,Yes,Fashion,Sneakers,70,"Nike, Adidas",Seattle
+211,Kevin Davis,34,Male,68000,PhD,2.9,"Twitter, LinkedIn",Very Influential,Yes,Electronics,Smartphone,900,"Samsung, iPhone",Miami
+212,Lily Hernandez,29,Female,54000,Master's,2.5,"Instagram, TikTok",Somewhat Influential,Yes,Beauty,Mascara,20,"Maybelline, L'Oréal",Austin
+213,Mason Smith,33,Male,62000,Bachelor's,2.7,"Instagram, Twitter",Somewhat Influential,Yes,Home Decor,Throw Pillows,50,"IKEA, Target",San Francisco
+214,Natalie Davis,27,Female,52000,Master's,2.6,"Pinterest, Instagram",Very Influential,Yes,Fashion,Jeans,60,"Levi's, H&M",Chicago
+215,Oliver Johnson,32,Male,63000,PhD,3,"LinkedIn, Twitter",Very Influential,Yes,Electronics,Bluetooth Speaker,60,"JBL, Sony",New York
+216,Paige Adams,25,Female,44000,Bachelor's,2.4,"Snapchat, Instagram",Somewhat Influential,Yes,Beauty,Skincare,35,"Neutrogena, CeraVe",Austin
+217,Quinn Taylor,29,Male,55000,Bachelor's,2.8,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Gaming Console,350,"Sony, Microsoft",Los Angeles
+218,Rachel Wilson,30,Female,57000,Master's,2.9,"Facebook, Instagram",Very Influential,Yes,Home Decor,Curtains,40,"IKEA, Target",Seattle
+219,Samuel Kim,34,Male,70000,Bachelor's,3.1,"Instagram, Twitter",Somewhat Influential,Yes,Fitness,Yoga Mat,25,"Gaiam, Manduka",Miami
+220,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Los Angeles
+221,Addison Kim,29,Male,55000,Bachelor's,2.5,"Instagram, Facebook",Somewhat Influential,Yes,Electronics,Headphones,100,"Sony, Bose",San Diego
+222,Bella Smith,28,Female,48000,Bachelor's,2.4,"TikTok, Snapchat",Somewhat Influential,Yes,Beauty,Nail Polish,10,"Essie, OPI",New York
+223,Caleb Johnson,30,Male,56000,Bachelor's,2.6,"Facebook, Twitter",Somewhat Influential,Yes,Home Decor,Bedding,120,"IKEA, Target",Austin
+224,Daisy Davis,33,Female,62000,Master's,2.8,"Instagram, TikTok",Very Influential,Yes,Fashion,T-shirt,20,"Uniqlo, Gap",Seattle
+225,Ethan Kim,27,Male,51000,Bachelor's,2.3,"Twitter, Snapchat",Somewhat Influential,Yes,Electronics,Smartphone,800,"Samsung, iPhone",Miami
+226,Fiona Rodriguez,28,Female,52000,Bachelor's,2.4,"Instagram, TikTok",Somewhat Influential,Yes,Beauty,Mascara,15,"Maybelline, L'Oréal",Chicago
+227,George Kim,32,Male,63000,Bachelor's,2.7,"Facebook, LinkedIn",Very Influential,Yes,Fitness,Home Gym Equipment,900,"Bowflex, NordicTrack",New York
+228,Hannah Smith,29,Female,54000,Master's,2.5,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Lighting,70,"Philips, IKEA",San Francisco
+229,Isaac Martinez,31,Male,60000,Bachelor's,2.9,"Instagram, Twitter",Very Influential,Yes,Electronics,Smartwatch,300,"Apple, Garmin",Chicago
+230,Jasmine Davis,26,Female,46000,Bachelor's,2.2,"TikTok, Snapchat",Somewhat Influential,Yes,Fashion,Jeans,40,"Levi's, H&M",Houston
+231,Kevin Kim,28,Male,52000,Master's,2.6,"Instagram, Pinterest",Somewhat Influential,Yes,Beauty,Skincare,45,"Neutrogena, CeraVe",Miami
+232,Lily Smith,29,Female,54000,Master's,2.7,"Facebook, TikTok",Very Influential,Yes,Fitness,Resistance Bands,20,"Bodylastics, Fit Simplify",Los Angeles
+233,Mason Davis,33,Male,62000,Bachelor's,2.5,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Soundbar,150,"Bose, Sonos",Phoenix
+234,Natalie Kim,27,Female,52000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Wall Art,90,"IKEA, Wayfair",Austin
+235,Oliver Johnson,32,Male,63000,PhD,3,"LinkedIn, Twitter",Very Influential,Yes,Beauty,Lip Gloss,10,"Fenty Beauty, NYX",Seattle
+236,Paige Adams,25,Female,44000,Bachelor's,2.3,"Snapchat, Instagram",Somewhat Influential,Yes,Electronics,Laptop,700,"Apple, Dell",Boston
+237,Quinn Martinez,29,Male,58000,Bachelor's,2.8,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Curtains,30,"IKEA, Target",Los Angeles
+238,Rachel Davis,30,Female,57000,Master's,2.7,"Facebook, Instagram",Very Influential,Yes,Fashion,Sneakers,80,"Nike, Adidas",New York
+239,Samuel Kim,34,Male,70000,Bachelor's,2.9,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Wireless Earbuds,50,"Apple, Sony",Miami
+240,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Seattle
+241,Addison Smith,28,Male,49000,Bachelor's,2.2,"Instagram, Facebook",Somewhat Influential,Yes,Home Decor,Kitchen Appliances,250,"KitchenAid, Cuisinart",Phoenix
+242,Bella Johnson,27,Female,52000,Bachelor's,2.3,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Wireless Earbuds,80,"Apple, Sony",Austin
+243,Caleb Davis,33,Male,64000,PhD,3.1,"Twitter, LinkedIn",Very Influential,Yes,Fitness,Yoga Mat,20,"Gaiam, Manduka",Chicago
+244,Daisy Kim,29,Female,55000,Master's,2.7,"Instagram, Pinterest",Very Influential,Yes,Beauty,Foundation,30,"Fenty Beauty, Maybelline",Seattle
+245,Ethan Smithers,28,Male,46000,Bachelor's,2.4,"Snapchat, Instagram",Somewhat Influential,Yes,Fashion,Sneakers,60,"Nike, Adidas",San Francisco
+246,Fiona Davis,27,Female,50000,Bachelor's,2.5,"Instagram, TikTok",Somewhat Influential,Yes,Home Decor,Wall Clock,35,"IKEA, Howard Miller",Los Angeles
+247,George Kimson,32,Male,61000,Bachelor's,2.8,"Facebook, LinkedIn",Very Influential,Yes,Electronics,Laptop,900,"Apple, Dell",Houston
+248,Hannah Rodriguez,29,Female,54000,Master's,2.6,"Pinterest, Instagram",Very Influential,Yes,Fashion,Dress,50,"Zara, H&M",Miami
+249,Isaac Davis,27,Male,53000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Gaming Console,350,"Sony, Microsoft",New York
+250,Jasmine Patel,26,Female,47000,Bachelor's,2.3,"Instagram, TikTok",Somewhat Influential,Yes,Home Decor,Curtains,40,"IKEA, Target",Austin
+251,Kevin Adams,28,Male,52000,Master's,2.7,"Instagram, Pinterest",Somewhat Influential,Yes,Electronics,Smart Speaker,60,"Amazon Echo, Google Home",San Diego
+252,Lily Hernandez,29,Female,54000,Master's,2.8,"Facebook, TikTok",Very Influential,Yes,Fitness,Resistance Bands,25,"Bodylastics, Fit Simplify",Boston
+253,Mason Smith,33,Male,62000,Bachelor's,2.6,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Bluetooth Speaker,70,"JBL, Sony",Phoenix
+254,Natalie Davis,27,Female,52000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Beauty,Lip Gloss,15,"MAC Cosmetics, Revlon",Austin
+255,Oliver Johnson,32,Male,63000,PhD,3,"LinkedIn, Twitter",Very Influential,Yes,Home Decor,Bedding,80,"IKEA, Target",Chicago
+256,Paige Adams,25,Female,44000,Bachelor's,2.2,"Snapchat, Instagram",Somewhat Influential,Yes,Electronics,Smartwatch,250,"Apple, Garmin",Los Angeles
+257,Quinn Martinez,29,Male,58000,Bachelor's,2.8,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Curtains,30,"IKEA, Target",Houston
+258,Rachel Davis,30,Female,57000,Master's,2.7,"Facebook, Instagram",Very Influential,Yes,Fashion,Sneakers,80,"Nike, Adidas",New York
+259,Samuel Kim,34,Male,70000,Bachelor's,2.9,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Wireless Earbuds,50,"Apple, Sony",Miami
+260,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Seattle
+261,Addison Davis,33,Male,64000,PhD,2.8,"Twitter, Instagram",Somewhat Influential,Yes,Home Decor,Throw Pillows,40,"IKEA, Target",Phoenix
+262,Bella Kim,29,Female,54000,Master's,2.7,"Instagram, TikTok",Somewhat Influential,Yes,Electronics,Soundbar,120,"Bose, Sonos",Miami
+263,Caleb Smith,34,Male,70000,Bachelor's,3,"Facebook, Twitter",Very Influential,Yes,Beauty,Lipstick,15,"MAC Cosmetics, Revlon",Los Angeles
+264,Daisy Martinez,28,Female,48000,Bachelor's,2.5,"TikTok, Snapchat",Somewhat Influential,Yes,Fitness,Treadmill,800,"NordicTrack, Peloton",Seattle
+265,Ethan Johnson,27,Male,52000,Bachelor's,2.2,"Twitter, Snapchat",Somewhat Influential,Yes,Fashion,Dress,40,"Zara, H&M",San Francisco
+266,Fiona Rodriguez,30,Female,57000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Wall Art,25,"IKEA, Wayfair",Boston
+267,George Davis,33,Male,62000,Bachelor's,2.6,"Facebook, LinkedIn",Somewhat Influential,Yes,Electronics,Smartwatch,200,"Apple, Garmin",Houston
+268,Hannah Kim,28,Female,50000,Bachelor's,2.4,"Instagram, Pinterest",Somewhat Influential,Yes,Fitness,Dumbbells,30,"Bowflex, NordicTrack",Chicago
+269,Isaac Smith,27,Male,53000,Bachelor's,2.7,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Kitchen Appliances,450,"KitchenAid, Cuisinart",Los Angeles
+270,Jasmine Adams,30,Female,58000,Master's,2.8,"Facebook, Instagram",Very Influential,Yes,Fashion,Sneakers,70,"Nike, Adidas",Seattle
+271,Kevin Davis,34,Male,68000,PhD,2.9,"Twitter, LinkedIn",Very Influential,Yes,Electronics,Smartphone,900,"Samsung, iPhone",Miami
+272,Lily Hernandez,29,Female,54000,Master's,2.5,"Instagram, TikTok",Somewhat Influential,Yes,Beauty,Mascara,20,"Maybelline, L'Oréal",Austin
+273,Mason Smith,33,Male,62000,Bachelor's,2.7,"Instagram, Twitter",Somewhat Influential,Yes,Home Decor,Throw Pillows,50,"IKEA, Target",San Francisco
+274,Natalie Davis,27,Female,52000,Master's,2.6,"Pinterest, Instagram",Very Influential,Yes,Fashion,Jeans,60,"Levi's, H&M",Chicago
+275,Oliver Johnson,32,Male,63000,PhD,3,"LinkedIn, Twitter",Very Influential,Yes,Electronics,Bluetooth Speaker,60,"JBL, Sony",New York
+276,Paige Adams,25,Female,44000,Bachelor's,2.4,"Snapchat, Instagram",Somewhat Influential,Yes,Beauty,Skincare,35,"Neutrogena, CeraVe",Austin
+277,Quinn Taylor,29,Male,55000,Bachelor's,2.8,"TikTok, Snapchat",Somewhat Influential,Yes,Electronics,Gaming Console,350,"Sony, Microsoft",Los Angeles
+278,Rachel Wilson,30,Female,57000,Master's,2.9,"Facebook, Instagram",Very Influential,Yes,Home Decor,Curtains,40,"IKEA, Target",Seattle
+279,Samuel Kim,34,Male,70000,Bachelor's,3.1,"Instagram, Twitter",Somewhat Influential,Yes,Fitness,Yoga Mat,25,"Gaiam, Manduka",Miami
+280,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Los Angeles
+281,Addison Kim,29,Male,55000,Bachelor's,2.5,"Instagram, Facebook",Somewhat Influential,Yes,Electronics,Headphones,100,"Sony, Bose",San Diego
+282,Bella Smith,28,Female,48000,Bachelor's,2.4,"TikTok, Snapchat",Somewhat Influential,Yes,Beauty,Nail Polish,10,"Essie, OPI",New York
+283,Caleb Johnson,30,Male,56000,Bachelor's,2.6,"Facebook, Twitter",Somewhat Influential,Yes,Home Decor,Bedding,120,"IKEA, Target",Austin
+284,Daisy Davis,33,Female,62000,Master's,2.8,"Instagram, TikTok",Very Influential,Yes,Fashion,T-shirt,20,"Uniqlo, Gap",Seattle
+285,Ethan Kim,27,Male,51000,Bachelor's,2.3,"Twitter, Snapchat",Somewhat Influential,Yes,Electronics,Smartphone,800,"Samsung, iPhone",Miami
+286,Fiona Rodriguez,28,Female,52000,Bachelor's,2.4,"Instagram, TikTok",Somewhat Influential,Yes,Beauty,Mascara,15,"Maybelline, L'Oréal",Chicago
+287,George Kim,32,Male,63000,Bachelor's,2.7,"Facebook, LinkedIn",Very Influential,Yes,Fitness,Home Gym Equipment,900,"Bowflex, NordicTrack",New York
+288,Hannah Smith,29,Female,54000,Master's,2.5,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Lighting,70,"Philips, IKEA",San Francisco
+289,Isaac Martinez,31,Male,60000,Bachelor's,2.9,"Instagram, Twitter",Very Influential,Yes,Electronics,Smartwatch,300,"Apple, Garmin",Chicago
+290,Jasmine Davis,26,Female,46000,Bachelor's,2.2,"TikTok, Snapchat",Somewhat Influential,Yes,Fashion,Jeans,40,"Levi's, H&M",Houston
+291,Kevin Kim,28,Male,52000,Master's,2.6,"Instagram, Pinterest",Somewhat Influential,Yes,Beauty,Skincare,45,"Neutrogena, CeraVe",Miami
+292,Lily Smith,29,Female,54000,Master's,2.7,"Facebook, TikTok",Very Influential,Yes,Fitness,Resistance Bands,20,"Bodylastics, Fit Simplify",Los Angeles
+293,Mason Davis,33,Male,62000,Bachelor's,2.5,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Soundbar,150,"Bose, Sonos",Phoenix
+294,Natalie Kim,27,Female,52000,Master's,2.9,"Pinterest, Instagram",Very Influential,Yes,Home Decor,Wall Art,90,"IKEA, Wayfair",Austin
+295,Oliver Johnson,32,Male,63000,PhD,3,"LinkedIn, Twitter",Very Influential,Yes,Beauty,Lip Gloss,10,"Fenty Beauty, NYX",Seattle
+296,Paige Adams,25,Female,44000,Bachelor's,2.3,"Snapchat, Instagram",Somewhat Influential,Yes,Electronics,Laptop,700,"Apple, Dell",Boston
+297,Quinn Martinez,29,Male,58000,Bachelor's,2.8,"TikTok, Snapchat",Somewhat Influential,Yes,Home Decor,Curtains,30,"IKEA, Target",Los Angeles
+298,Rachel Davis,30,Female,57000,Master's,2.7,"Facebook, Instagram",Very Influential,Yes,Fashion,Sneakers,80,"Nike, Adidas",New York
+299,Samuel Kim,34,Male,70000,Bachelor's,2.9,"Instagram, Twitter",Somewhat Influential,Yes,Electronics,Wireless Earbuds,50,"Apple, Sony",Miami
+300,Taylor Hernandez,23,Female,36000,High School,4,"TikTok, Snapchat",Not Influential,No,N/A,N/A,0,N/A,Seattle
